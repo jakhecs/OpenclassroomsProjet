@@ -1,3 +1,3 @@
 # OpenclassroomsProjet
 
-https://github.com/jakhecs/OpenclassroomsProjet.git
+git clona https://github.com/jakhecs/OpenclassroomsProjet.git
